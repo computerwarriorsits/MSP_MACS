@@ -1,0 +1,1 @@
+#! /bin/bashname=$1curl -O https://raw.githubusercontent.com/CW-Khristos/MSP_MACS/master/Copycat%20Print%20Shop/mxb-macosx-x86_64.pkgmv mxb-macosx-x86_64.pkg "$name".pkginstaller -dumplog -pkg "$name".pkg -target /
