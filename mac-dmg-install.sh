@@ -1,5 +1,5 @@
 #!/bin/bash
-curl -O https://github.com/CW-Khristos/MSP_MACS/raw/master/MacAgentInstallation.dmg
+curl -O https://github.com/computerwarriorsits/MSP_MACS/raw/master/MacAgentInstallation.dmg
 SRC=MacAgentInstallation.dmg
 while getopts 'k:c:i:s:p:a:x:r:P:T:D:V:' OPTION
 do
